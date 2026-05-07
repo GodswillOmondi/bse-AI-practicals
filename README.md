@@ -24,14 +24,12 @@ Additional explanations for each implementation are provided in the correspondin
 CCS-2226-FOUNDATIONS-OF-AI/
 │
 ├── Task-1-MNIST-Digit-Recognition/
-│   ├── src/
-│   ├── dataset/
-│   ├── outputs/
+│   ├── mnist_classifier.py
 │   └── README.md
 │
 ├── Task-2-Constraint-Satisfaction/
-│   ├── Australia-Map-Coloring/
-│   ├── Nairobi-Map-Coloring/
+│   ├── australia_map_coloring.py
+│   ├── nairobi_map_coloring.py
 │   └── README.md
 │
 ├── Task-3-Prolog-Family-Tree/
