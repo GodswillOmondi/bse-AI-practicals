@@ -46,3 +46,54 @@ CCS-2226-FOUNDATIONS-OF-AI/
 │
 ├── requirements.txt
 └── README.md
+```
+
+# Setup
+1. Clone Repository
+```bash
+git clone <repository-url>
+cd CCS-2226-FOUNDATIONS-OF-AI
+```
+
+2. Create Virtual Environment (Optional)
+- Windows
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+- Linux/macOS
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+# Running the Tasks
+
+Navigate into the required task directory and run the corresponding program.
+
+## Example:
+```bash
+cd Task-4-Search-and-Optimization
+python bfs.py
+```
+
+# Requirements
+
+Recommended tools and software:
+
+- Python 3.10+
+- SWI-Prolog
+- VS Code / PyCharm
+- Git
+
+# Author
+
+- - Godswill Omondi Ajuoga
+- - **RegNo**: CIT-227-096/2024
+- - BSc. Software Engineering
+- - CCS 2226 – Foundations of Artificial Intelligence
