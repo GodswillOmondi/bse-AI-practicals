@@ -1,1 +1,48 @@
-# bse-AI-practicals
+# CCS 2226 Foundations of AI - 2026 Practical Tasks
+
+This repository contains the code implementations for the practical tasks in **CCS 2226 – Foundations of Artificial Intelligence**.
+
+The practicals focus on the implementation of core Artificial Intelligence concepts including:
+- Machine Learning
+- Constraint Satisfaction Problems
+- Logic Programming
+- Search Algorithms
+
+Each task is organized into its own directory containing:
+- Source code
+- Supporting resources/datasets
+- Output samples
+- Task-specific explanations
+
+Additional explanations for each implementation are provided in the corresponding `README.md` file inside every task folder.
+
+---
+
+# Repository Structure
+
+```text
+CCS-2226-FOUNDATIONS-OF-AI/
+│
+├── Task-1-MNIST-Digit-Recognition/
+│   ├── src/
+│   ├── dataset/
+│   ├── outputs/
+│   └── README.md
+│
+├── Task-2-Constraint-Satisfaction/
+│   ├── Australia-Map-Coloring/
+│   ├── Nairobi-Map-Coloring/
+│   └── README.md
+│
+├── Task-3-Prolog-Family-Tree/
+│   ├── family.pl
+│   ├── screenshots/
+│   └── README.md
+│
+├── Task-4-Search-and-Optimization/
+│   ├── bfs.py
+│   ├── dfs.py
+│   └── README.md
+│
+├── requirements.txt
+└── README.md
