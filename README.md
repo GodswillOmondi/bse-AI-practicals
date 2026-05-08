@@ -49,7 +49,7 @@ CCS-2226-FOUNDATIONS-OF-AI/
 # Setup
 1. Clone Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/GodswillOmondi/bse-AI-practicals.git
 cd CCS-2226-FOUNDATIONS-OF-AI
 ```
 
